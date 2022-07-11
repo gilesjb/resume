@@ -55,10 +55,11 @@ which became the Direct3D software renderer after the company was acquired by Mi
 Developed interactive graphical simulation of molecular-beam surface deposition
 
 ## Technical skills
-* SOLID system design
+* Design of large scale distributed service-oriented and component-based systems
+* SOLID design principles
 * Performance and availability analysis and optimization
 * REST/HTTP and other service protocols
-* Java, J2EE, NodeJS, SQL, Ruby, Python, JavaScript, CSS, C/C++
+* Java, Node, SQL, Ruby, Python, JavaScript, TypeScript, CSS, C/C++
 
 ## Education
 
