@@ -8,7 +8,7 @@ Seattle WA 98136
 ## Professional goals
 
 * Designing and building critical high impact systems that solve business problems
-* Educating engineers on how to create extensible services that scale to meet new business requirements
+* Montoring engineers on how to create extensible services that scale to meet new business requirements
 * Optimizing reliability and performance of critical systems
 
 ## Employment history
@@ -70,3 +70,7 @@ Computer Science BSc, Imperial College London
 *US-20030028519 & US-728424* Content-specific Filename Systems, Microsoft 2002
 
 Patented the use of secure content digests in file names and URLs for optimal retrieval and caching of content
+
+*US-11360994* Compact storage of non-sparse high-dimensionality data, Amazon 2022
+
+Patented a method of compressing large datasets with multi-dimensional keys for storage in SQL databases
