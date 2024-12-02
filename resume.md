@@ -14,7 +14,7 @@ Specializes in distributed systems design, performance optimization, and technic
 
 #### Chewy.com (2022-2024) - *Staff Engineer*
 
-Focused on improving key website page performance metrics, availability and 
+Focused on improving key website page performance metrics, availability and agility
 
 * Factored backend services to reduce complexity and align with team ownership
 * Optimized latency and throughput of backend services
