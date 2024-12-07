@@ -16,15 +16,15 @@ Specializes in distributed systems design, performance optimization, and technic
 
 Focused on improving key website page performance metrics, availability and agility
 
+* Analyzed and root-caused performance bottlenecks in React/Next.js web application
 * Factored backend services to reduce complexity and align with team ownership
 * Optimized latency and throughput of backend services
-* Analyzed and root caused performance bottlenecks in web page
 
 #### Amazon.com (2010-2021) – *Senior SDE* 
 
 Built key feature on multiple customer-facing applications in the <tt>amazon.com</tt> shopping experience
 
-* *Shopping Portal* – Conceived, and led the design and development of a HTTP proxy that provides common functionality for the <tt>amazon.com</tt> website, handling 100% of page requests with low latency and high availability
+* *Shopping Portal* – Conceived, and led the design and development of the HTTP proxy which provides common functionality for the <tt>amazon.com</tt> website, handling 100% of page requests with low latency and high availability
 * *Product detail page* – Developed configuration system for representing page layouts and other behaviors that vary across multiple dimensions such as country and product category
 * *Checkout* – Introduced a dynamic plugin system to allow partner teams to independently deploy updates to business functionality in checkout pipeline
 * *Retail edge server* - Led development of an experimental page accelerator that demonstrated the latency benefit of proxying requests from Asia via the internal network backbone
