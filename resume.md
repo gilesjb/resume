@@ -24,11 +24,11 @@ Focused on improving key website page performance metrics, availability and agil
 
 Built key feature on multiple customer-facing applications in the <tt>amazon.com</tt> shopping experience
 
-* *Shopping Portal* – Conceived, and led the design and development of the HTTP proxy which provides common functionality for the <tt>amazon.com</tt> website, handling 100% of page requests with low latency and high availability
+* *Shopping Portal* – Proposed and led the design and development of the frontend HTTP proxy which provides common functionality for the <tt>amazon.com</tt> website, handling 100% of page requests with low latency and high availability
 * *Product detail page* – Developed configuration system for representing page layouts and other behaviors that vary across multiple dimensions such as country and product category
 * *Checkout* – Introduced a dynamic plugin system to allow partner teams to independently deploy updates to business functionality in checkout pipeline
 * *Retail edge server* - Led development of an experimental page accelerator that demonstrated the latency benefit of proxying requests from Asia via the internal network backbone
-* **Patent**: US-11360994 - Method for compact representation of datasets with multi-dimensional keys
+* Patent: US-11360994 - Method for compact representation of datasets with multi-dimensional keys
 
 
 #### Thumbplay (2008-2009) – *Senior Systems Architect*
@@ -44,26 +44,23 @@ Worked on the bank's in-house equity trading application
 
 * Optimized market data views to handle high update volumes with minimal latency
 
-#### Accenture [2004-2007] – *Senior Consultant*
+#### Accenture (2004-2007) – *Senior Consultant*
 
 At RandomWalk Consulting, acquired by Accenture, Senior engineer on ICAP BrokerTec fixed income trading platform
 
 * Improved maintainability of code through design reviews and mentoring junior developers
 * Introduced automated code quality metrics and unit tests
 
-#### Microsoft [1994-2002] – *Software Design Engineer*
+#### Microsoft (1994-2002) – *Software Design Engineer*
 
 Was a developer of the RenderMorphics RealityLab 3D rendering engine,
 which became the Direct3D software renderer after RenderMorphics was acquired by Microsoft
 
 * Designed and implemented the Direct3D Retained Mode API
 * Developed reference implementations of Direct3D 9.0 rasterizers
-* **Patent**: US-20030028519 & US-728424 - Enabling data caching by encoding secure content digests in file names and URLs
+* Patent: US-20030028519 & US-728424 - Efficient data caching by encoding secure content digests in file names and URLs
 
-#### Imperial College London [1992-1993] – *Research Assistant*
-Developed interactive graphical simulation of molecular-beam surface deposition
-
-## Technical skills
+## Technical expertise
 
 * Designing decoupled, component-based systems for rapidly changing business requirements
 * Performance and availability analysis and optimization
@@ -72,4 +69,7 @@ Developed interactive graphical simulation of molecular-beam surface deposition
 
 ## Education
 
-Computer Science BSc, Imperial College London
+Imperial College, London
+
+* Computer Science BSc
+* Research Assistant (1992-1993): Developed graphical simulations of molecular-beam surface deposition
