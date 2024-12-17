@@ -22,7 +22,7 @@ Focused on improving key website page performance metrics, availability and agil
 
 #### Amazon.com (2010-2021) – *Senior SDE* 
 
-Built key feature on multiple customer-facing applications in the <tt>amazon.com</tt> shopping experience
+Built key features in multiple customer-facing applications in the <tt>amazon.com</tt> shopping experience
 
 * *Shopping Portal* – Proposed and led the design and development of the frontend HTTP proxy which provides common functionality for the <tt>amazon.com</tt> website, handling 100% of page requests with low latency and high availability
 * *Product detail page* – Developed configuration system for representing page layouts and other behaviors that vary across multiple dimensions such as country and product category
