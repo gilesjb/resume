@@ -17,8 +17,8 @@ Specializes in distributed systems design, performance optimization, and technic
 Focused on improving key website page performance metrics, availability and agility
 
 * Analyzed and root-caused performance bottlenecks in React/Next.js web application
-* Factored backend services to reduce complexity and align with team ownership
-* Optimized latency and throughput of backend services
+* Factored APIs of ECS-deployed services to reduce complexity and align with team ownership
+* Optimized latency, throughput and load tolerance of containerized services
 
 #### Amazon.com (2010-2021) – *Senior SDE* 
 
@@ -61,11 +61,11 @@ which became the Direct3D software renderer after RenderMorphics was acquired by
 * Patent: US-20030028519 & US-728424 - Efficient data caching by encoding secure content digests in file names and URLs
 
 ## Technical expertise
-
-* Designing decoupled, component-based systems for rapidly changing business requirements
-* Performance and availability analysis and optimization
-* REST/GraphQL and other service protocols
-* TypeScript, JavaScript, Java, Node, SQL, Ruby, Python, CSS, C/C++
+- *Architecture*: Distributed Systems, Service-Oriented Architecture, Edge Computing
+- *Performance*: Latency Optimization, High-Availability Systems, Scalability
+- *Languages*: TypeScript, JavaScript, Java, Python, C/C++, Ruby
+- *Technologies*: REST, GraphQL, Node.js, SQL, AWS ECS, Docker
+- *Specialties*: System Design, Performance Analysis, Technical Mentorship
 
 ## Education
 
